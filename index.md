@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Jesse Brown
+brownjm1968@gmail.com
+
+This is my new website!
 
 You can use the [editor on GitHub](https://github.com/brownjm1968/brownjm1968.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
