@@ -1,40 +1,18 @@
 ## Jesse Brown
 brownjm1968@gmail.com
+ORCiD: 0000-0002-0769-4100
 
 This is my new website!
 
-You can use the [editor on GitHub](https://github.com/brownjm1968/brownjm1968.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Focus 
 
-### Markdown
+I am a nuclear engineer who uses Python, C, and Fortran programs to collect, analyze, and evaluate nuclear data in an effort to improve nuclear engineering applications for clean sustainable energy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education
 
-```markdown
-Syntax highlighted code block
+**Rensselaer Polytechnic Institute**
+- Ph.D. Nuclear Engineering | Focus: Nuclear Data (Expected May 2019)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/brownjm1968/brownjm1968.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**Appalachian State University**
+- B.S. Applied Physics (May 2014)
