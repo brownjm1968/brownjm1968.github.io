@@ -3,9 +3,6 @@ brownjm1968@gmail.com
 
 ORCiD: 0000-0002-0769-4100
 
-This is my new website!
-
-
 ## Focus 
 
 I am a nuclear engineer who uses Python, C, and Fortran programs to collect, analyze, and evaluate nuclear data in an effort to improve nuclear engineering applications for clean sustainable energy.
