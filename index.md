@@ -1,16 +1,16 @@
 ## Jesse Brown
 brownjm1968@gmail.com
 
-ORCiD: 0000-0002-0769-4100
+ORCiD: https://orcid.org/0000-0002-0769-4100
 
 ## Focus 
 
-I am a nuclear engineer who uses Python, C, and Fortran programs to collect, analyze, and evaluate nuclear data in an effort to improve nuclear engineering applications for clean sustainable energy.
+I am a nuclear engineer who uses Python, C, and Fortran programs to collect, analyze, and evaluate nuclear data in an effort to improve nuclear engineering applications for clean sustainable energy. When nuclear data are missing or poorly defined, I design and execute cross section measurements to create new datasets.
 
 ## Education
 
 **Rensselaer Polytechnic Institute**
-- Ph.D. Nuclear Engineering | Focus: Nuclear Data (Expected Aug 2019)
+- Ph.D. Nuclear Engineering | Focus: Nuclear Data (Aug 2019)
 
 **Appalachian State University**
 - B.S. Applied Physics (May 2014)
