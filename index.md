@@ -1,4 +1,7 @@
 ## Jesse Brown
+
+<img src="head_shot.jpg" alt="me" width="500" height="600">
+
 brownjm1968@gmail.com
 
 [ORCiD](https://orcid.org/0000-0002-0769-4100)
