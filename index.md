@@ -1,6 +1,6 @@
 ## Jesse Brown
 
-<img src="head_shot.jpg" alt="me" width="500" height="600">
+<img src="head_shot.jpeg" alt="me" width="500" height="600">
 
 brownjm1968@gmail.com
 
