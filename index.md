@@ -10,7 +10,7 @@ I am a nuclear engineer who uses Python, C/C++, and Fortran programs to collect,
 ## Education
 
 **Rensselaer Polytechnic Institute**
-- Ph.D. Nuclear Engineering | Focus: Nuclear Data (Aug 2019)
+- Ph.D. Nuclear Engineering (Aug 2019) Focus: Nuclear Data
 
 **Appalachian State University**
 - B.S. Applied Physics (May 2014)
