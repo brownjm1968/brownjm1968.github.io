@@ -1,5 +1,5 @@
 
-<img src="Smoky-Mountains.jpeg" alt="smoky mountains" width="1000" height="668">
+<img src="img/Smoky-Mountains.jpeg" alt="smoky mountains" width="1000" height="668">
 
 ## Jesse Brown
 
@@ -19,7 +19,9 @@ I'm a nuclear engineer who uses Python, C/C++, and Fortran programs to collect, 
 **Appalachian State University**
 - B.S. Applied Physics (May 2014)
 
-## 
+## Programming
+
+- 
 
 ## Publications
 
