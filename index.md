@@ -1,6 +1,7 @@
-## Jesse Brown
 
-<img src="head_shot.jpeg" alt="me" width="235" height="300">
+<img src="Smoky-Mountains.jpeg" alt="smoky mountains" width="1000" height="668">
+
+## Jesse Brown
 
 brownjm1968@gmail.com
 
@@ -8,7 +9,7 @@ brownjm1968@gmail.com
 
 ## Focus 
 
-I am a nuclear engineer who uses Python, C/C++, and Fortran programs to collect, analyze, and evaluate nuclear data in an effort to improve nuclear engineering applications for clean sustainable energy. When nuclear data are missing or poorly defined, I design and execute cross section measurements to create new datasets.
+I'm a nuclear engineer who uses Python, C/C++, and Fortran programs to collect, analyze, and evaluate nuclear data in an effort to improve nuclear engineering applications for clean sustainable energy. When nuclear data are missing or poorly defined, I design and execute cross section measurements to create new datasets.
 
 ## Education
 
@@ -17,6 +18,8 @@ I am a nuclear engineer who uses Python, C/C++, and Fortran programs to collect,
 
 **Appalachian State University**
 - B.S. Applied Physics (May 2014)
+
+## 
 
 ## Publications
 
