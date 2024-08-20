@@ -1,5 +1,5 @@
 
-<img src="img/Smoky-Mountains.jpeg" alt="smoky mountains" width="1000" height="668">
+<img src="img/Smoky-Mountains.jpeg" alt="smoky mountains" width="500" height="334">
 
 ## Jesse Brown
 
