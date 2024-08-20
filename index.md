@@ -21,7 +21,9 @@ I'm a nuclear engineer who uses Python, C/C++, and Fortran programs to collect, 
 
 ## Programming
 
-- 
+- [SAMMY](https://code.ornl.gov/RNSD/SAMMY) : A code developed at ORNL for Bayesian nuclear data evaluation
+- [SESH](https://github.com/brownjm1968/sesh) : A Monte Carlo code that calculates self-shielding factors for experimental data
+- [nuctools](https://github.com/brownjm1968/nuctools) : A python package designed to provide tools for analysis of nuclear interaction data
 
 ## Publications
 
@@ -36,8 +38,6 @@ I'm a nuclear engineer who uses Python, C/C++, and Fortran programs to collect, 
 5.	Amanda E. Youmans, J. Brown, A. Daskalakis, N. Thompson, A. Welz, Y. Danon, B. McDermott, G. Leinweber and M. Rapp, “Fast Neutron Scattering Measurements with Lead”, AccApp 15, Washington, DC, pp. 355-360, November 10-13 2015.
 
 
-
-<span style="color:green">I hope to be releasing programs on nuclear phenomena soon!</span>
 
 
 
